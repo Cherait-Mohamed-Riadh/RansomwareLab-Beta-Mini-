@@ -1,6 +1,6 @@
 ﻿# RansomwareLab
 
-**Developed by Cherait Mohamed Riadh** — Cybersecurity Engineer, Red Teamer, and Malware Developer.
+**Developed by CH-Mohamed Riadh** — Cybersecurity Engineer, Red Teamer, and Malware Developer.
 
 An educational code-reading project for understanding **file-encryption behavior in a simplified ransomware example**. It demonstrates the use of OpenSSL with AES-256-GCM, the format of encrypted data, and the role of a key in file recovery.
 
