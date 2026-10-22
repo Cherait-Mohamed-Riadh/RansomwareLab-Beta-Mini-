@@ -90,3 +90,11 @@ The container written by the project begins with these fields, in order:
 | Ciphertext | Variable |
 
 The authentication tag is part of AES-GCM. Using the wrong key or modifying the data will generally cause authentication to fail during decryption.
+
+## Disclaimer
+
+RansomwareLab is provided for educational and research purposes, specifically for source-code review in a controlled environment. The current implementation modifies and deletes files and is not safe for general use. Do not run or use it on systems or data without explicit authorization.
+
+The project is provided “as is,” without warranties of any kind. To the fullest extent permitted by applicable law, the authors and contributors are not responsible for any loss or damage resulting from the use or misuse of this project. Users are responsible for complying with applicable laws, obtaining proper authorization, and protecting their data.
+
+
