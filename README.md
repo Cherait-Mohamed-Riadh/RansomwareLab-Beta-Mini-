@@ -90,11 +90,3 @@ The container written by the project begins with these fields, in order:
 | Ciphertext | Variable |
 
 The authentication tag is part of AES-GCM. Using the wrong key or modifying the data will generally cause authentication to fail during decryption.
-
-## Notes before publishing on GitHub
-
-- Describe the repository and its topics as intended for **education and static analysis**.
-- Do not attach `main.exe` as a ready-to-run download or release.
-- Add a `LICENSE` file specifying the reuse terms you choose.
-- If you want the project to be suitable for live classroom demonstrations, make the published version non-destructive before adding build or run instructions.
-- Review the repository contents to ensure it does not include keys, personal files, or unintended test outputs.
